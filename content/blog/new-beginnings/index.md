@@ -1,7 +1,7 @@
 ---
-title: New Beginnings
+title: My Blog
 date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Hey this is my first blog and this is how my journey begins.
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
